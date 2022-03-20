@@ -1,0 +1,6 @@
+C:\Users\anita\Desktop\C#_SQL_Casa\casa_PPC\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\anita\Desktop\C#_SQL_Casa\casa_PPC\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\anita\Desktop\C#_SQL_Casa\casa_PPC\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\anita\Desktop\C#_SQL_Casa\casa_PPC\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\anita\Desktop\C#_SQL_Casa\casa_PPC\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\anita\Desktop\C#_SQL_Casa\casa_PPC\CapaEntidades\obj\Debug\CapaEntidades.pdb
